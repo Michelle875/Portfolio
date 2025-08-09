@@ -7,30 +7,12 @@ const OtherInterests = () => {
       <h2>Other Interests</h2>
       
       <div className="interests-grid">
+        
         <div className="interest-card">
           <h3>Science Communication</h3>
           <p>
             I'm passionate about making complex scientific concepts accessible to broader audiences. 
-            I regularly contribute articles to popular science magazines and give public lectures 
-            on emerging technologies and their societal implications.
-          </p>
-        </div>
-        
-        <div className="interest-card">
-          <h3>Mentoring</h3>
-          <p>
-            Beyond formal academic supervision, I mentor high school and undergraduate students 
-            through various programs aimed at increasing diversity in STEM fields. I've helped 
-            establish several pipeline programs at local schools.
-          </p>
-        </div>
-        
-        <div className="interest-card">
-          <h3>Open Science</h3>
-          <p>
-            Advocate for open access publishing and reproducible research. All my code and data 
-            are publicly available when possible, and I've developed several tools to make research 
-            workflows more transparent.
+            The purpose of research and technology is to learn and spread information.
           </p>
         </div>
         
@@ -45,16 +27,29 @@ const OtherInterests = () => {
         <div className="interest-card">
           <h3>Language Learning</h3>
           <p>
-            I enjoy learning new languages and exploring different cultures through language. This passion 
-            enhances my understanding of communication and cognition, which informs my research.
+            I enjoy learning new languages and exploring different cultures through language. 
           </p>
         </div>
 
         <div className="interest-card">
           <h3>Drawing</h3>
           <p>
-            In my free time, I write sketch landscapes. Drawing helps me think outside 
+            In my free time, I sketch landscapes. Drawing helps me think outside 
             the box and improves my ability to convey complex ideas clearly and engagingly.
+          </p>
+        </div>
+        
+        <div className="interest-card">
+          <h3>Creative Writing</h3>
+          <p>
+            Writing short stories allows me to explore imagination and sharpen my communication skills.
+          </p>
+        </div>
+
+        <div className="interest-card">
+          <h3>Travel and Culture</h3>
+          <p>
+            I like to travel and experience different cultures. Places have a unique history and environment that I love to explore.
           </p>
         </div>
       </div>
