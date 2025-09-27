@@ -9,6 +9,19 @@ const AcademicHistory = () => {
 
       <div className="timeline">
 
+        <div className="timeline-item">
+          <div className="timeline-date">May 2025 – Present</div>
+          <div className="timeline-content">
+            <h3>Aresty Research Center</h3>
+            <p className="degree">Peer Instructor</p>
+            <ul>
+              <li>Mentored new undergraduate research assistants throughout the research process</li>
+              <li>Led weekly group meetings on foundational research concepts and practices</li>
+              <li>Organized workshops and community-building events</li>
+            </ul>
+          </div>
+      </div>
+
 
 
       <div className="timeline-item">
@@ -33,19 +46,6 @@ const AcademicHistory = () => {
             <li>Analyzed high-level gaze data to uncover patterns in cognitive decision-making</li>
             <li>Compared Elastic Net and Neural Network models for behavioral prediction</li>
             <li>Developed cross-validated pipelines to enhance model performance and interpretability</li>
-          </ul>
-        </div>
-      </div>
-
-      <div className="timeline-item">
-        <div className="timeline-date">June 2025 – August 2025</div>
-        <div className="timeline-content">
-          <h3>Aresty Research Center</h3>
-          <p className="degree">Peer Instructor</p>
-          <ul>
-            <li>Mentored new undergraduate research assistants throughout the research process</li>
-            <li>Led weekly group meetings on foundational research concepts and practices</li>
-            <li>Organized workshops and community-building events</li>
           </ul>
         </div>
       </div>
